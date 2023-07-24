@@ -2,6 +2,11 @@
 
 An industrius and professional full-stack developer/engineer with experience spanning over 12 years in Software Engineering. Proficient in all aspects of  prototyping, user interface design (UI), user experience (UX), design thinking (DT), machine learning (ML), artificial intelligence (AI), emotional intelligence (EI), frontend and backend development. Dedicated to effective and innovative team / project management techniques to ensure a successful software development life cycle (SDLC). I'm in pursuit of strong, complex, robust, scalable, resilient and secure Web3.0 systems. My passion and dream is to build an open and connected social, working and learning ecosystem where people can interact by leveraging the new technologies that Web3.0 has to offer. Keen to learn about new and emerging technologies in the blockchain space. When I’m not working, I enjoy playing computer gaming, chess, fishing and bird watching.
 
+<br/>
+<p align="center"> <a href="https://twitter.com/code_writer" target="blank">
+  <img src="https://img.shields.io/twitter/follow/code_writer?logo=twitter&style=for-the-badge" alt="code_writer" /></a> 
+</p>
+
 ## TechStack
 
 | STACK             | TECHNOLOGIES                                                                                                                                                                                                          |
