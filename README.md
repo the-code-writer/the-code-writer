@@ -5,7 +5,7 @@ An industrius and professional full-stack developer/engineer with experience spa
 <br/>
 <p align="center"> <a href="https://twitter.com/code_writer" target="blank">
   <img src="https://img.shields.io/twitter/follow/code_writer?logo=twitter&style=for-the-badge" alt="code_writer" /></a> 
-  <img src="https://img.shields.io/linkedin/follow/douglasmaposa?logo=linkedin&style=for-the-badge" alt="douglasmaposa" /></a> 
+  <img src="https://img.shields.io/twitter/follow/douglasmaposa?logo=linkedin&style=for-the-badge" alt="douglasmaposa" /></a> 
 </p>
 
 ## TechStack
