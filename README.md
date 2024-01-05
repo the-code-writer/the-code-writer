@@ -39,10 +39,10 @@ As a full-stack engineer with over 12 years of experience, I have mastered the a
 
 <a href="https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1">https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1</a>
 
-<a href="https://commercial.supplyzone.ai">https://commercial.supplyzone.ai</a>
-<a href="https://primereum.io">https://primereum.io</a>
-<a href="https://liquidtelecom.hyperefficient2.net">https://liquidtelecom.hyperefficient2.net</a>
-<a href="https://mamboschicken.com">https://mamboschicken.com</a>
-<a href="https://afrodad.org">https://afrodad.org</a>
-<a href="https://impala.co.zw">https://impala.co.zw</a>
-<a href="https://intello.chat">https://intello.chat</a>
+<a href="https://commercial.supplyzone.ai">https://commercial.supplyzone.ai</a><br/>
+<a href="https://primereum.io">https://primereum.io</a><br/>
+<a href="https://liquidtelecom.hyperefficient2.net">https://liquidtelecom.hyperefficient2.net</a><br/>
+<a href="https://mamboschicken.com">https://mamboschicken.com</a><br/>
+<a href="https://afrodad.org">https://afrodad.org</a><br/>
+<a href="https://impala.co.zw">https://impala.co.zw</a><br/>
+<a href="https://intello.chat">https://intello.chat</a><br/>
