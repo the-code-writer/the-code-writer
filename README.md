@@ -33,3 +33,16 @@ As a full-stack engineer with over 12 years of experience, I have mastered the a
 - :speech_balloon: Ask me anything about Blockchain & MERN Stack (MongoDB/MYSQL - ExpressJS - ReactJS/NextJS - NodeJS)
 - :mailbox: How to reach me: <a href="mailto:doug.maposa@gmail.com">doug.maposa@gmail.com</a>
 - :mailbox: LinkedIn Profile: <a href="https://www.linkedin.com/in/douglasmaposa">https://www.linkedin.com/in/douglasmaposa</a>
+
+
+##Portfolio
+
+<a href="https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1">https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1</a>
+
+<a href="https://commercial.supplyzone.ai">https://commercial.supplyzone.ai</a>
+<a href="https://primereum.io">https://primereum.io</a>
+<a href="https://liquidtelecom.hyperefficient2.net">https://liquidtelecom.hyperefficient2.net</a>
+<a href="https://mamboschicken.com">https://mamboschicken.com</a>
+<a href="https://afrodad.org">https://afrodad.org</a>
+<a href="https://impala.co.zw">https://impala.co.zw</a>
+<a href="https://intello.chat">https://intello.chat</a>
