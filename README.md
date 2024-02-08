@@ -1,6 +1,12 @@
 ### Hi there :wave:, I am Douglas
 
-As a full-stack engineer with over 12 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, from machine learning to artificial intelligence, and from frontend to backend development, I have the skills and knowledge to handle any challenge. I apply design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle. My dream is to create a more open and connected world, where people can collaborate, learn and work using the power and potential of blockchain technology. I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. I possess a Bachelor's in Information Technology and am currently studying a Master's in Computer Science. committed to continuous learning and growth as both a developer and a team leader.  When I’m not working, I enjoy Computer gaming, chess, fishing and bird watching.
+As a full-stack engineer with over 12 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, from machine learning to artificial intelligence, and from frontend to backend development, I have the skills and knowledge to handle any challenge. I apply design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle. 
+
+My dream is to create a more open and connected world, where people can collaborate, learn and work using the power and potential of blockchain technology. 
+
+I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. I possess a Bachelor's in Information Technology and am currently studying a Master's in Computer Science. committed to continuous learning and growth as both a developer and a team leader.  
+
+When I’m not working, I enjoy playing chess, fishing and bird watching.
 
 <br/>
 <p align="center"> 
@@ -35,28 +41,3 @@ As a full-stack engineer with over 12 years of experience, I have mastered the a
 - :mailbox: LinkedIn Profile: <a href="https://www.linkedin.com/in/douglasmaposa">https://www.linkedin.com/in/douglasmaposa</a>
 
 
-##Portfolio
-
-<a href="https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1">https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1</a>
-
-[<a href="https://swapps.finance">https://swapps.finance</a><br/>](https://swapps.finance)
-[<a href="https://dextec.finance">https://dextec.finance</a><br/>](https://dextec.finance)
-[<a href="https://zkwallet.network">https://zkwallet.network</a><br/>](https://zkwallet.network)
-[<a href="https://enftis.com">https://enftis.com</a><br/>](https://enftis.com)
-[<a href="https://jouel.net">https://jouel.net</a><br/>](https://jouel.net)
-[<a href="https://vax.land">https://vax.land</a><br/>](https://vax.land)
-[<a href="https://jouel.net">https://jouel.net</a><br/>](https://jouel.net)
-[<a href="https://carbonfree.space">https://carbonfree.space</a><br/>](https://carbonfree.space)
-[<a href="https://crowdfunding.site">https://crowdfunding.site</a><br/>](https://crowdfunding.site)
-[<a href="https://ethdaddy.site">https://ethdaddy.site</a><br/>](https://ethdaddy.site)
-[<a href="https://ethcareers.online">https://ethcareers.online</a><br/>](https://ethcareers.online) 
-
-[<a href="https://qprompt.site">https://qprompt.site</a><br/>](https://qprompt.site)
-
-<a href="https://commercial.supplyzone.ai">https://commercial.supplyzone.ai</a><br/>
-<a href="https://primereum.io">https://primereum.io</a><br/>
-<a href="https://liquidtelecom.hyperefficient2.net">https://liquidtelecom.hyperefficient2.net</a><br/>
-<a href="https://mamboschicken.com">https://mamboschicken.com</a><br/>
-<a href="https://afrodad.org">https://afrodad.org</a><br/>
-<a href="https://impala.co.zw">https://impala.co.zw</a><br/>
-<a href="https://intello.chat">https://intello.chat</a><br/>
