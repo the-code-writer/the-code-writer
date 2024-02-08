@@ -39,6 +39,20 @@ As a full-stack engineer with over 12 years of experience, I have mastered the a
 
 <a href="https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1">https://play.google.com/store/apps/details?id=zw.co.appdev.lrf&hl=en&gl=US&pli=1</a>
 
+[<a href="https://swapps.finance">https://swapps.finance</a><br/>](https://swapps.finance)
+[<a href="https://dextec.finance">https://dextec.finance</a><br/>](https://dextec.finance)
+[<a href="https://zkwallet.network">https://zkwallet.network</a><br/>](https://zkwallet.network)
+[<a href="https://enftis.com">https://enftis.com</a><br/>](https://enftis.com)
+[<a href="https://jouel.net">https://jouel.net</a><br/>](https://jouel.net)
+[<a href="https://vax.land">https://vax.land</a><br/>](https://vax.land)
+[<a href="https://jouel.net">https://jouel.net</a><br/>](https://jouel.net)
+[<a href="https://carbonfree.space">https://carbonfree.space</a><br/>](https://carbonfree.space)
+[<a href="https://crowdfunding.site">https://crowdfunding.site</a><br/>](https://crowdfunding.site)
+[<a href="https://ethdaddy.site">https://ethdaddy.site</a><br/>](https://ethdaddy.site)
+[<a href="https://ethcareers.online">https://ethcareers.online</a><br/>](https://ethcareers.online) 
+
+[<a href="https://qprompt.site">https://qprompt.site</a><br/>](https://qprompt.site)
+
 <a href="https://commercial.supplyzone.ai">https://commercial.supplyzone.ai</a><br/>
 <a href="https://primereum.io">https://primereum.io</a><br/>
 <a href="https://liquidtelecom.hyperefficient2.net">https://liquidtelecom.hyperefficient2.net</a><br/>
