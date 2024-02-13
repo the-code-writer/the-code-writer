@@ -1,10 +1,10 @@
 ### Hi there :wave:, I am Douglas
 
-As a full-stack engineer with over 12 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, from machine learning to artificial intelligence, and from frontend to backend development, I have the skills and knowledge to handle any challenge. I apply design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle. 
+As a full-stack engineer with over 10 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, from machine learning to artificial intelligence, and from frontend to backend development, I have the skills and knowledge to handle technical challenges. I use agile (scrum / kanban), design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle. 
 
 My dream is to create a more open and connected world, where people can collaborate, learn and work using the power and potential of blockchain technology. 
 
-I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. I possess a Bachelor's in Information Technology and am currently studying a Master's in Computer Science. committed to continuous learning and growth as both a developer and a team leader.  
+I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. I possess a Bachelor's in Information Technology and am currently studying a Master of Science in Computer Science (MS-CS) with Colorado Boulder State University. committed to continuous learning and growth as both a developer and a team leader.  
 
 When I’m not working, I enjoy playing chess, fishing and bird watching.
 
@@ -31,7 +31,7 @@ When I’m not working, I enjoy playing chess, fishing and bird watching.
 | **DevOps**            | • Bitbucket • Github • Docker •  CI/CD Pipelines • Terraform DevOps  • Google Cloud Platform (GCP) • Microsoft Azure • Digital Ocean  • Kubernetes (K8s) • OpenStack • Apache Cloud Stack • Amazon Web Services (AWS) |
 | **Operating Systems** | • Windows 10 + Server Administration  • Embedded OS: Raspbian • macOS • Linux Server (Ubuntu + Centos)                                                                                                      |
 | **Web Servers**       | • Apache Tomcat • Apache 2 HTTP server • Lighttpd  • Nginx • Microsoft IIS • ColdFusion                                                                                                                               |
-| **UI Design Tools**   | • Adobe Photoshop • Adobe Illustrator • Adobe XD • CorelDraw   • Figma • Sketchup • Lumion 3D • Blender                                                                                                               |
+| **UI Design Tools**   | • Adobe Photoshop • Adobe Illustrator • Adobe XD • CorelDraw   • Figma • Sketch                                                                                                            |
 
 - :telescope: I’m currently working on a multi-tenant NFT markeplace
 - :seedling: I’m currently learning EVM, ZKs, MA & AI
@@ -39,5 +39,6 @@ When I’m not working, I enjoy playing chess, fishing and bird watching.
 - :speech_balloon: Ask me anything about Blockchain & MERN Stack (MongoDB/MYSQL - ExpressJS - ReactJS/NextJS - NodeJS)
 - :mailbox: How to reach me: <a href="mailto:doug.maposa@gmail.com">doug.maposa@gmail.com</a>
 - :mailbox: LinkedIn Profile: <a href="https://www.linkedin.com/in/douglasmaposa">https://www.linkedin.com/in/douglasmaposa</a>
+- :mailbox: My Portfolio: <a href="https://douglas-maposa.site">[https://www.linkedin.com/in/douglasmaposa](https://douglas-maposa.site)https://douglas-maposa.site</a>
 
 
