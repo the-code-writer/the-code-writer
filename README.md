@@ -1,12 +1,12 @@
 ### Hi there :wave:, I am Douglas
 
-As a full-stack engineer with over 10 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, from machine learning to artificial intelligence, and from frontend to backend development, I have the skills and knowledge to handle technical challenges. I use agile (scrum / kanban), design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle. 
+As a full-stack engineer with over 10 years of experience, I have mastered the art and science of creating engaging and intelligent digital solutions. From prototyping to UI/UX design, frontend development, backend development, devops, machine learning and artificial intelligence. 
 
-My dream is to create a more open and connected world, where people can collaborate, learn and work using the power and potential of blockchain technology. 
+I have the necessary skills and knowledge to handle technical challenges. I use agile, scrum, kanban, design thinking and emotional intelligence to manage projects and teams effectively and efficiently, ensuring a smooth and successful software development life cycle.
 
-I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. I possess a Bachelor's in Information Technology and am currently studying a Master of Science in Computer Science (MS-CS) with Colorado Boulder State University. committed to continuous learning and growth as both a developer and a team leader.  
+ My dream is to create a more open and connected world, where sovereign people can collaborate, socialize, learn and work using the power and potential of Web3.0. I am always eager to explore new and emerging trends in the distributed space as I am passionate about all things blockchain. 
 
-When I’m not working, I enjoy playing chess, fishing and bird watching.
+I have a Bachelor of Science Honors degree in Information Technology and am currently studying a Master of Science in Computer Science with Colorado Boulder State University. I am committed to continuous learning and growth as an engineer, mentor and a team leader.
 
  [![Doug's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-code-writer&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/the-code-writer/)
  
