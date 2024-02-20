@@ -11,6 +11,25 @@ When I’m not working, I enjoy playing chess, fishing and bird watching.
  [![Doug's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-code-writer&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/the-code-writer/)
  
 <br/>
+
+<br>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-code-writer&show_icons=true&locale=en&layout=compact" alt="the-code-writer" />
+</p>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=the-code-writer&show_icons=true" alt="GitHub Stats" />
+</div>
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=the-code-writer)](https://git.io/streak-stats)
+</div>
+<br><be>
+
 <p align="center"> 
   <a href="https://twitter.com/code_writer" target="blank">
     <img src="https://img.shields.io/twitter/follow/code_writer?logo=twitter&style=for-the-badge" alt="code_writer" />
