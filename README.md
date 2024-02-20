@@ -60,6 +60,6 @@ When I’m not working, I enjoy playing chess, fishing and bird watching.
 - :speech_balloon: Ask me anything about Blockchain & MERN Stack (MongoDB/MYSQL - ExpressJS - ReactJS/NextJS - NodeJS)
 - :mailbox: How to reach me: <a href="mailto:doug.maposa@gmail.com">doug.maposa@gmail.com</a>
 - :mailbox: LinkedIn Profile: <a href="https://www.linkedin.com/in/douglasmaposa">https://www.linkedin.com/in/douglasmaposa</a>
-- :mailbox: My Portfolio: <a href="https://douglas-maposa.site">[https://www.linkedin.com/in/douglasmaposa](https://douglas-maposa.site)https://douglas-maposa.site</a>
+- :mailbox: My Portfolio: <a href="https://douglas-maposa.site">(https://douglas-maposa.site)https://douglas-maposa.site</a>
 
 
