@@ -8,6 +8,8 @@ I am always eager to explore new and emerging trends in the distributed space as
 
 When I’m not working, I enjoy playing chess, fishing and bird watching.
 
+ [![Doug's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-code-writer&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/the-code-writer/)
+ 
 <br/>
 <p align="center"> 
   <a href="https://twitter.com/code_writer" target="blank">
